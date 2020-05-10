@@ -6,4 +6,4 @@ The Model was built by performing feature engineering like count of capitalizati
 
 Initially i created models with count and TF-IDF vectors and later i used GloVe and FAst Text Word vectors with sklearn and neural network respectivly. below are thir relative scores:
 
-<img src="./images/22._compare_model.PNG>
+<img src="./images/22._compare_model.PNG">
